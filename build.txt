@@ -1,0 +1,3 @@
+displayName = Toms Stuff
+author = Tom
+version = 0.1
